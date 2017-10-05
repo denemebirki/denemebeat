@@ -1,4 +1,6 @@
+Değişiklik yapıldı 
 # Denemebeat
+
 
 Welcome to Denemebeat.
 
